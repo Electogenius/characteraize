@@ -31,3 +31,5 @@ so basically a horizontal line is b1x1x1
 change the training data by entering `data = /*whatever data you want*/` in the console
 
 The training data is just a bunch of letters in a string seperated by two continous spaces.
+
+only char code "compiler" is [here](https://c.gethopscotch.com/p/11hd6n9tp7)
