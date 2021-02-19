@@ -1,4 +1,4 @@
-var accuracy = 0.9
+var accuracy = 0.8
 function start(a) {
 	var model = {t:{},l:{},a:{}};
 	var tlength = 0
